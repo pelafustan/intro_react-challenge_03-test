@@ -1,6 +1,6 @@
 # React I
 
-## Challenge 3 - Collaborators App
+## Challenge 2 - Collaborators App
 
 ### Context
 
